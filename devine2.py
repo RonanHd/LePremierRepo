@@ -25,3 +25,10 @@ while nombreUtilisateur != str(ADeviner) :
             print ("trop grand")
         
 print ("OK tu as trouvé")
+
+
+#Je fais un truc qui change
+
+print ("VIVE GIT!!!")
+print("Meme si j en chie")
+
